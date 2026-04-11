@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Comprehensive dining market data for Schaumburg, Illinois. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Schaumburg, Illinois, US",
+  "export_job_id": "745b2e78-3eff-4c7f-8b69-e6c842968113",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 363896,
+  "location_name": "Schaumburg",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-schaumburg-illinois-us-sample-363896",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/363896/beamstation_363896_restaurants-us-il_SAMPLE_DIST.csv",
+  "sample_pct": 9.84,
+  "sample_records": 6,
+  "sample_sha256": "73e71d3c33f29d83eb34bdc2b9d7634cc7f5750725ff2640cf55442b8492b4c6",
+  "sample_size_bytes": 41045,
+  "total_records": 61,
+  "updated_at": "2026-03-31T15:13:42.651793+00:00"
+}
