@@ -1,0 +1,12 @@
+{
+  "export_job_id": "745b2e78-3eff-4c7f-8b69-e6c842968113",
+  "id_short": 363896,
+  "published_at": "2026-04-11T19:35:46Z",
+  "repo_name": "all-restaurants-in-schaumburg-illinois-us-sample-363896",
+  "sample_asset_name": "beamstation_363896_restaurants-us-il_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/363896/beamstation_363896_restaurants-us-il_SAMPLE_DIST.csv",
+  "sample_records": 6,
+  "sample_sha256": "73e71d3c33f29d83eb34bdc2b9d7634cc7f5750725ff2640cf55442b8492b4c6",
+  "sample_size_bytes": 41045,
+  "total_records": 61
+}
