@@ -1,6 +1,6 @@
 # All Restaurants in Schaumburg, Illinois, US
 
-> Free BeamStation sample export with 6 rows and masked direct-contact fields.
+> Free BeamStation sample export with 7 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `363896` |
 | Location | Schaumburg |
 | Category | Restaurants |
-| Full dataset size | 61 records |
-| Free sample size | 6 records (9.84%) |
-| Last export | 2026-03-31T15:13:42.651793+00:00 |
+| Full dataset size | 71 records |
+| Free sample size | 7 records (9.86%) |
+| Last export | 2026-04-14T15:56:31.249361+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-schaumburg-illinois-us-sample-363896/releases/download/sample-latest/beamstation_363896_restaurants-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
